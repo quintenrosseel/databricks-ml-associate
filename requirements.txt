@@ -1,0 +1,5 @@
+# To create the dataset (create_dataset.py)
+python-dotenv
+pandas
+xlrd
+pyarrow

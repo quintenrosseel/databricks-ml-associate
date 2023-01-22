@@ -92,4 +92,4 @@ output_df = (
     )
 )
 
-output_df.to_parquet('data/li_ga_prediction.parquet')
+output_df.to_parquet('data/ga_li_prediction.parquet')
